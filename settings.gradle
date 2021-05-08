@@ -1,0 +1,2 @@
+include ':app', ':hl-log'
+rootProject.name='HlLog'
