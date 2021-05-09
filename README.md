@@ -9,7 +9,7 @@
 - 支持打印堆栈调用信息及深度；
 - 支持配置打印线程信息；
 - 高可扩展性，可定义自己的打印器；
-### HlLog架构图：
+
 ### 项目示例：
 ![20210509_190403.gif](https://upload-images.jianshu.io/upload_images/1928063-fd6f94ca5d3bf467.gif?imageMogr2/auto-orient/strip)
 ### 使用介绍：
@@ -62,6 +62,7 @@ HlLogManager.getInstance().addPrinter(hlViewPrinter);
  HlLog.d("测试一下");
 ```
 ### 讨论：
+
 ### 其他作品
 
 
