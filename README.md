@@ -62,7 +62,6 @@ HlLogManager.getInstance().addPrinter(hlViewPrinter);
 最后调用,即可在文件，控制台，app上查看日志了
  HlLog.d("测试一下");
 ```
-### 讨论：
 
 ### 其他作品
 
